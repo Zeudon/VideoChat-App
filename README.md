@@ -2,13 +2,13 @@
 
 A video chat application (WebRTC) using React, Node.js, socket.io and simple-peer
 
-Features
+Features 
+- Video calling 
+- Chatting feature
+- Audio mute/unmute, Video on/off 
 
-Video calling
-Chatting feature
-Audio mute/unmute, Video on/off
-Deployment
+Deployment 
+- Frontend: Netlify, view [here](https://lava-chat.netlify.app/)
+- Backend: Heroku, view [here](https://lava-chat.herokuapp.com/)
 
-Frontend: Netlify, view here
-Backend: Heroku, view here
-Connect using two mobile networks.
+Connect using two mobile networks. 
